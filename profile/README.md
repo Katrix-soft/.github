@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/💼%20Proyectos-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/🚀%20Demo-16a34a?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://linkedin/ignacio-e-sanchez">
+    <img src="https://img.shields.io/badge/🚀%20Demo-16a34a?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
