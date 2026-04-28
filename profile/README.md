@@ -1,94 +1,99 @@
-# 🚀 KATRIX
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=KATRIX%20SOFT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-**Innovación, Software y Seguridad al servicio de tu visión.**  
-Desarrollamos **soluciones digitales a medida**, seguras y escalables, combinando tecnología de vanguardia con creatividad real.
+<h1 align="center">⚡ KATRIX SOFT</h1>
 
----
-
-## 🧠 ¿Quiénes somos?
-
-Somos **KATRIX**, una empresa de desarrollo de software con enfoque en **proyectos personalizados**, **ciberseguridad integral** y **pensamiento disruptivo**.  
-Trabajamos con startups, PyMEs y grandes empresas que buscan transformar ideas en soluciones digitales potentes, seguras y escalables.
+<p align="center">
+  <b>Automatización • SaaS • Ecommerce • Sistemas escalables</b>
+</p>
 
 ---
 
-## 🛠️ Nuestro stack tecnológico
+<p align="center">
+  <a href="mailto:igexsanchez@gmail.com">
+    <img src="https://img.shields.io/badge/📩%20Contactar-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-Creamos soluciones modernas usando tecnologías robustas, seguras y de alto rendimiento:
+  <a href="https://github.com/orgs/Katrix-soft/repositories">
+    <img src="https://img.shields.io/badge/💼%20Proyectos-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-### Frontend
-- ⚛️ React.js / Next.js
-- 💅 TailwindCSS / Bootstrap
-- ⚡ Vite / Webpack
+  <a href="#">
+    <img src="https://img.shields.io/badge/🚀%20Demo-16a34a?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-### Backend
-- 🐍 Python (FastAPI, Django)
-- 🟨 Node.js (Express, NestJS)
-- 🐘 PHP (Laravel)
-
-### DevOps & Infraestructura
-- 🐳 Docker / Docker Compose
-- ☁️ AWS / Vercel / DigitalOcean
-- 🔐 Nginx / Traefik / Certbot
-- 🧩 CI/CD con GitHub Actions
-
-### Bases de Datos
-- 🐘 PostgreSQL
-- 🔍 MongoDB
-- 🔐 SQLite para apps ligeras
-
-### Ciberseguridad
-- 🧱 Hardening de servidores
-- 🕵️ Análisis de vulnerabilidades
-- 🔐 Encriptación y protocolos seguros
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-3b82f6?style=flat-square" />
+  <img src="https://img.shields.io/badge/STACK-FULLSTACK-8b5cf6?style=flat-square" />
+</p>
 
 ---
 
-## 💡 Lo que nos diferencia
+## 🚀 ¿Qué hacemos?
 
-- ✅ Desarrollo **100% a medida**
-- 🔒 Seguridad desde el diseño (Security by Design)
-- 🧠 Aporte creativo e innovador en cada etapa
-- 🤝 Comunicación directa y transparente con el cliente
-- 🚀 Enfoque **ágil y escalable**
+Creamos soluciones digitales que **ahorran tiempo, reducen costos y escalan negocios**.
 
----
-
-## 🌐 Servicios
-
-- Aplicaciones Web & Móviles
-- Plataformas empresariales
-- Dashboards de análisis de datos
-- Integración de APIs & automatización
-- Auditorías de ciberseguridad y compliance
-- Consultoría en arquitectura de software
+✔ Desarrollo de SaaS a medida
+✔ Automatización con n8n, APIs y bots
+✔ Ecommerce optimizados para conversión
+✔ Integraciones entre sistemas
+✔ Infraestructura cloud (Docker, Nginx, CI/CD)
 
 ---
 
-## 📈 Casos de éxito
+## 🧠 Soluciones listas para empresas
 
-> ✨ *Transformamos ideas en productos reales.*  
-> 🚀 *Desde MVPs hasta plataformas corporativas.*
-
-🔐 *Automatización de reportes seguros para organismos públicos*  
-📊 *Dashboard de métricas en tiempo real para startups*  
-📱 *Apps móviles educativas y sociales*  
-
----
-
-## 🤝 ¿Colaboramos?
-
-🎯 Si tenés una idea, un problema o un sueño digital… **hablamos el mismo idioma.**
-
-📬 Contactanos:  
-**📧** [igexsanchez@gmail.com](mailto:igexsanchez@gmail.com)  
-**📱** [+54 261 6557673](https://wa.me/542616557673)  
-**🌐** [github.com/nachaxed](https://github.com/nachaxed)
+🔹 Automatización de procesos internos
+🔹 Bots para atención y ventas
+🔹 Sistemas de gestión (CRM, dashboards)
+🔹 Integraciones con APIs y plataformas
+🔹 Arquitectura lista para escalar
 
 ---
 
-## 🖤 Built with pasión por KATRIX
-**Diseñamos. Desarrollamos. Protegemos.**
+## ⚡ Stack
 
-> _“La tecnología bien hecha no solo funciona. También inspira.”_
+```bash
+Frontend   → React / Next.js
+Backend    → Node.js / Python
+Automation → n8n / Webhooks / APIs
+Infra      → Docker / Nginx / Cloud
+DB         → PostgreSQL / MongoDB
+```
 
+---
+
+## 📈 Impacto
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⏱️%20Tiempo-Ahorro%20%2B70%25-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️%20Procesos-Automatizados-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊%20Escalabilidad-Real-8b5cf6?style=for-the-badge" />
+</p>
+
+---
+
+## 🧲 ¿Por qué Katrix?
+
+✔ Pensado para negocio, no solo código
+✔ Soluciones reales, no teoría
+✔ Enfoque en automatización + escalabilidad
+
+---
+
+## 📬 Trabajemos juntos
+
+<p align="center">
+  <a href="mailto:igexsanchez@gmail.com">
+    <img src="https://img.shields.io/badge/💼%20Iniciar%20Proyecto-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Build • Automate • Scale</b>
+</p>
